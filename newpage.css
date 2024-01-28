@@ -1,0 +1,91 @@
+header{
+    width: 100%;
+    height: 40px;
+    background-color: #ffd700;
+    margin-top: 0;
+}
+.div_inner{
+    padding: 0 5px;
+    display: flex;
+}
+.div_inner2{
+    padding: 0 20px;
+}
+body{
+    margin: 0;
+}
+.afont{
+    font-size: 25px;
+    margin-top: 0;  
+    font-family: "Kiwi Maru",DotGothic16,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.aheader{
+    display: flex;
+}
+.adiv{
+    display: flex;
+    align-items: center;
+}
+.aimg{
+    height: 30px;
+}
+.header-nav-item {
+    margin-left: 20px;
+}
+.header-nav-item-link{
+    text-decoration: none;
+    color: black;
+}
+.header-nav-item:first-child {
+    margin-left: 0;
+}
+ul,
+li{
+    list-style: none;
+}
+.header-nav-list{
+    display: -webkit-flex;
+    display: flex;
+    font-family: "Kiwi Maru",DotGothic16;
+}
+.image{
+    display: flex;
+    margin: 0%;
+    margin-left: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+main{
+    width: 100%;
+    height: 4090px;
+    background-color: rgb(251, 255, 246);
+}
+.imageupnow{
+    position: absolute;
+    margin: 0%;
+    top: 70%;
+    color: azure;
+    font-size-adjust: none;
+    font-size: 1.5em;
+    font-family: "Kiwi Maru",DotGothic16,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.upnow{
+    position: relative;
+}
+.fontiv{
+    font-family: "Kiwi Maru",DotGothic16,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.maping{
+    margin-top: 10;
+}
+.marg{
+    margin: 0%;
+}
+footer{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(176, 108, 232);
+}
+.syu{
+    margin-left: 30%;
+}

@@ -57,7 +57,7 @@ li{
 }
 main{
     width: 100%;
-    height: 4090px;
+    height: auto;
     background-color: rgb(251, 255, 246);
 }
 .imageupnow{
